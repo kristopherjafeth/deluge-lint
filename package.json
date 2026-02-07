@@ -13,6 +13,9 @@
     "pretest": "npm.cmd run compile",
     "posttest": "npm.cmd run lint"
   },
+  "files": [
+    "build"
+  ],
   "keywords": [],
   "author": "",
   "license": "MIT",
