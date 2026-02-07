@@ -1,0 +1,6 @@
+node_modules
+build
+.delugerc
+*.dg
+*.log
+.DS_Store
