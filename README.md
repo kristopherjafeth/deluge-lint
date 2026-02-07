@@ -1,6 +1,6 @@
 # Deluge Lint 🌊
 
-![Status](https://img.shields.io/badge/status-beta-yellow) ![License](https://img.shields.io/badge/license-ISC-blue)
+![Status](https://img.shields.io/badge/status-beta-yellow) ![License](https://img.shields.io/badge/license-MIT-blue)
 
 **Deluge Lint** is a static analysis tool (linter) designed specifically for **Zoho Deluge**. It helps developers write cleaner code, avoid common runtime errors, and follow best practices recommended by the Zoho community.
 
@@ -99,4 +99,4 @@ Contributions are welcome! If you have ideas for new rules or improvements:
 
 ## 📄 License
 
-This project is licensed under the ISC License.
+This project is licensed under the MIT License.
